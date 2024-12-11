@@ -4,7 +4,7 @@ description: $guildNames will return the guild names your bot is in.
 id: guildNames
 ---
 
-`$guildNames` will return the guide names your bot is in.
+`$guildNames` will return the guild names your bot is in.
 
 ## Usage
 
